@@ -1,0 +1,12 @@
+{
+  "name": "isotopes",
+  "version": "1.0.0",
+  "description": "a nifty tool for isotope analysis",
+  "main": "index.js",
+  "repository": "https://github.com/saburo/isotopes.git",
+  "author": "Kouki Kitajima <saburo@geology.wisc.edu>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
